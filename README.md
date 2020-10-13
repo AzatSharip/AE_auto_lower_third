@@ -1,1 +1,2 @@
-# Script for automatic "lower-thirds" creation
+# Pipeline_lower_third
+Pipeline for automatic "lower-thirds" creation
